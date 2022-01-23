@@ -1,7 +1,7 @@
 ## Ola! Sou Alan Pablo !!
 
 - 🌱 Atualmente trabalho na Area de Analista de Tecnologia
-- 💬 Faço faculdade de Sistema de Informação na UFVJMM
+- 💬 Faço faculdade de Sistema de Informação na UFVJM
 
 <div align="center">
   <a href="https://github.com/alanpablo33">
