@@ -22,15 +22,11 @@
   <img lign="center" alt="Alan Terminal " height="40" width="40 "src="https://img.icons8.com/ios-filled/100/000000/console.png"/>
   <img lign="center" alt="Alan git " height="40" width="40 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img lign="center" alt="Alan git " height="40" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-
-
-
-
-
   </div>
   
-  
+  <div> 
+  <a href = "https://www.linkedin.com/in/alan-pablo-alves-2a9b21218/"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </div>
   
   
   ## 
