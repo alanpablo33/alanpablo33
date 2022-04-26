@@ -1,9 +1,9 @@
 ## Ola! Sou Alan Pablo !!
 
-- 🌱 Atualmente trabalho na Area de Analista de Tecnologia
+- 🌱 Atualmente trabalho na Area de Analista de TI
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
 
-<div align="center">
+<div >
   <a href="https://github.com/alanpablo33">
   <img height="229em" src="https://github-readme-stats.vercel.app/api?username=alanpablo33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="234em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpablo33&layout=compact&langs_count=7&theme=tokyonight"/>
