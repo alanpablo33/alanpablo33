@@ -18,6 +18,8 @@
   <img lign="center" alt="Alan bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img lign="center" alt="Alan Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img lign="center" alt="Alan c++" height="40" width="40 "src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img lign="center" alt="Alan Terminal " height="40" width="40 "src="https://img.icons8.com/ios-filled/100/000000/console.png"/>
+  <img lign="center" alt="Alan Terminal " height="40" width="40 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
 
