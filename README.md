@@ -31,7 +31,7 @@
     
   <a href = "+55 38 9 98979639"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     
-  <a href = "" target = "black"> <img src= "https://www.instagram.com/"> </a>
+ 
   </div>
   
   
