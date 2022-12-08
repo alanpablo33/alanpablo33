@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente trabalho na Area de Analista de TI
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
-- 🤓 Atualmente Aprendendo cada vez mas sobre HTML5,CSS3,Java-Script e Python.
+- 🤓 Atualmente Aprendendo cada vez mas sobre HTML5 ,CSS3 ,Java-Script ,Python e c++.
 
 <div >
   <a href="https://github.com/alanpablo33">
