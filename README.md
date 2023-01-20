@@ -1,6 +1,6 @@
 ## Ola! Sou Alan Pablo !!
 
-- 🌱 Atualmente trabalho na Area de Analista de TI
+- 🌱 Atualmente trabalho na Area de Analista de TI e ANALISTA DE REDES E DE COMUNICACAO DE DADOS
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
 - 🤓 Atualmente Aprendendo cada vez mas sobre HTML5 ,CSS3 ,Java-Script ,Python e c++.
 
