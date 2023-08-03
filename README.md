@@ -4,13 +4,7 @@
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
 - 🤓 Atualmente Aprendendo cada vez mas sobre HTML5 ,CSS3 ,Java-Script ,Python e c++.
 
-<div >
-  <a href="https://github.com/alanpablo33">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alanpablo33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpablo33&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img lign="center" alt="Alan filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
   <img lign="center" alt="Alan python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img lign="center" alt="Alan javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,12 +18,18 @@
   <img lign="center" alt="Alan git " height="40" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img lign="center" alt="Alan filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img lign="center" alt="java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- 
-          
   </div>
+
+<div >
+  <a href="https://github.com/alanpablo33">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alanpablo33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanpablo33&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+
   
   <div> 
-  <a href = "https://www.linkedin.com/in/alan-pablo-alves-2a9b21218/" target = "_black"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_black"></a> 
+  <a href = "https://www.linkedin.com/in/alan-pablo-alves-2a9b21218/" target = "_black"> <img  src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="80" width="80"></a> 
   </div>
   
   
