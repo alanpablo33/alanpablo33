@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente trabalho na Area de Analista de TI e ANALISTA DE REDES E DE COMUNICACAO DE DADOS
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
-- 🤓 Atualmente Aprendendo cada vez mas sobre HTML5 ,CSS3 ,Java-Script ,Python e c++.
+- 🤓 Atualmente Aprendendo cada vez mas sobre Python, JAVA e C++ .
 
   <div style="display: inline_block"><br>
   <img lign="center" alt="Alan filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
