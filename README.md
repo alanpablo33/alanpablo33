@@ -20,6 +20,8 @@
   <img lign="center" alt="Alan git " height="40" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img lign="center" alt="Alan filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img lign="center" alt="java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img lign="center" alt="java" height="40" width="40"src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" />
+  <img lign="center" alt="java" height="40" width="40"src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />  
   </div>
 
 <div >
