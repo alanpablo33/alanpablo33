@@ -4,7 +4,7 @@
 
 🎓 Cursando Sistemas de Informação na UFVJM.
 
-🤓 Em constante aprendizado, focado em Python, Java e C++.
+🤓 Em constante aprendizado.
 
   <div style="display: inline_block"><br>
   <img lign="center" alt="Alan filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
